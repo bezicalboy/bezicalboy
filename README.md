@@ -53,6 +53,6 @@
 ### My GitHub Stats
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=bezicalboy&show_icons=true&theme=transparent&border_color=c9d1d9" alt="bezicalboy stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bezicalboy&show_icons=true&layout=compact&theme=transparent&border_color=c9d1d9" alt="bezicalboy top langs" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezicalboy&theme=transparent_border&border=c9d1d9" alt="bezicalboy streak" />
 </p>
