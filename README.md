@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">HELLARXXXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN sheesh</h3>
+  <h3 align="center">sheesh</h3>
   <p align="center">Building cool things for the web, from sleek UIs to powerful automation bots.</p>
 </div>
 
