@@ -1,9 +1,3 @@
-<div align="center">
-  <h1 align="center">Hi there!, I'm Rico</h1>
-  <p align="center">Building cool things for the web, from sleek UIs to powerful automation bots.</p>
-</div>
-
----
 
 ### What I'm Up To
 
