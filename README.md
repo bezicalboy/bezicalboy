@@ -1,6 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there! i'm Rico</h1>
-  <h3 align="center">Fullstack dev</h3>
+  <h3 align="center">Hi i'm Rico</h3>
   <p align="center">Building cool things for the web, from sleek UIs to powerful automation bots.</p>
 </div>
 
