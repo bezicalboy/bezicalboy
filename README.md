@@ -10,7 +10,6 @@
 - I’m currently building **automation bots** and exploring the world of **Web3**.
 - I’m sharpening my skills in **Rust** and diving deep into **Solidity** for smart contract development.
 - I’m open to collaborating on innovative **web, automation, or Web3 projects**.
-- Check out my work at **[bezical.vercel.app](https://bezical.vercel.app)**.
 - Feel free to ask me about **Node.js, React, and general web development**.
 
 ---
@@ -53,6 +52,8 @@
 ### My GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bezicalboy&show_icons=true&theme=transparent&border_color=c9d1d9" alt="bezicalboy stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bezicalboy&show_icons=true&layout=compact&theme=transparent&border_color=c9d1d9" alt="bezicalboy top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bezicalboy&show_icons=true&theme=transparent&border_color=c9d1d9" alt="bezicalboy stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bezicalboy&show_icons=true&layout=compact&theme=transparent&border_color=c9d1d9" alt="bezicalboy top langs" />
 </p>
