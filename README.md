@@ -1,4 +1,8 @@
-
+<div align="center">
+  <h1 align="center">Hi i'm rico</h1>
+  <p align="center">Building cool things for the web, from sleek UIs to powerful automation bots.</p>
+</div>
+---
 ### What I'm Up To
 
 - I’m currently building **automation bots** and exploring the world of **Web3**.
