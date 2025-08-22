@@ -7,7 +7,7 @@
 
 ### What I'm Up To
 
-- I’m currently building **automation bots** and exploring the world of **Web3**.
+- I’m currently building **automation** and exploring the world of **Web3**.
 - I’m sharpening my skills in **Rust** and diving deep into **Solidity** for smart contract development.
 - I’m open to collaborating on innovative **web, automation, or Web3 projects**.
 - Feel free to ask me about **Node.js, React, and general web development**.
