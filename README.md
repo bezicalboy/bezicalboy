@@ -1,6 +1,6 @@
 <div align="center">
   <h3 align="center">Untitled hehe</h3>
-  <p align="center">Building cool things for the web, from sleek UIs to powerful automation bots.</p>
+  <p align="center">Building cool things for the web, from sleek UIs to powerful automation</p>
 </div>
 
 ---
