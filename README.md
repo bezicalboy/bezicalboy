@@ -16,9 +16,7 @@
 ### Let's Connect
 
 <p align="left">
-  <a href="mailto:bezicalboy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://twitter.com/hellarxn" target="blank"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f36f800a-2bdb-436f-8f66-48a1afed682a" />
-</a>
+  <a href="mailto:bezicalboy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
 </p>
 
 ---
