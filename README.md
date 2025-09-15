@@ -2,7 +2,7 @@
 
 
 
-nodejs dev, backend-dev, software engineer, reverse-engineer, blockchain, bot automation. 
+nodejs dev, backend-dev, software engineer, reverse-engineer, web 3, bot automation. 
 
 <!--START_SECTION:waka-->
 
