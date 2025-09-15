@@ -16,4 +16,4 @@ Blade Template   40 mins         █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=fdciabdul&theme=github-dark"/>
+<img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=bezicalboy&theme=github-dark"/>
