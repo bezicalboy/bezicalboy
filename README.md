@@ -17,3 +17,4 @@ Blade Template   40 mins         █░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=bezicalboy&theme=github-dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bezicalboy&size_weight=0.5&count_weight=0.5)
