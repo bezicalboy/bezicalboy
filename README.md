@@ -2,7 +2,7 @@
 
 
 
-nodejs dev, backend-dev, software engineer, reverse-engineer, web 3, bot automation. 
+nodejs dev, backend-dev, software engineer, reverse-engineer, web3 enthusiast, bot automation. 
 
 <!--START_SECTION:waka-->
 
