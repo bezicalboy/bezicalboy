@@ -7,11 +7,12 @@ nodejs dev, backend-dev, software engineer, reverse-engineer, web 3, bot automat
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         3 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-JavaScript       3 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
-TypeScript       3 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-Bash             1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Blade Template   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JavaScript  46.77%  █████████████████████████████░░░░░░░░░░░░░
+HTML        21.84%  ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+TypeScript  17.50%  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+CSS         11.53%  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+GLSL         2.36%  ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 ```
 
 <!--END_SECTION:waka-->
